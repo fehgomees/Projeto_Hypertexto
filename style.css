@@ -1,0 +1,69 @@
+body {
+    background-image: linear-gradient(to right bottom, #f47cd0, #df87df, #c891e8, #b19aed, #9ca1ed, #8aacf4, #78b6f8, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+.nivel {
+    text-align: center;
+    color: whitesmoke;  
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 10);
+    margin: 20px;
+}
+
+.linha-box {
+    background-color: rgb(170, 5, 170);
+    height: 30px;
+}
+
+.text-1 {
+    text-align: center;
+    background-color: plum;
+    margin-top: 40px;
+      
+}
+
+.text-2 {
+    text-align: center;
+    background-color: plum;
+    margin-top: 40px;
+    padding: 80px;
+      
+}
+
+.text-3 {
+    text-align: center;
+    background-color: plum;
+    margin-top: 40px;
+    border: 20px solid rgb(87, 2, 87);      
+}
+
+.link-container {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.nome-link {
+    text-decoration: underline;
+    padding-top: 25px;
+}
+
+a {
+    display: inline-block; /* Impede que o link ocupe a largura total disponível */
+}
+
+a:hover {
+    background-color: rgb(245, 252, 187);
+    padding: 10px;
+}
+
+.footer {
+    text-align: center;
+}
+
+.footer-caixa {
+    background-color: #f47cd0;
+    
+}
+
